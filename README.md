@@ -12,7 +12,7 @@ It is a mobile app where we can ...
  
 
 <p align="center">
-<img alt="normal_view" src="assets/demo.gif" width="300">
+<img alt="normal_view" src="assets/demo.gif" width="500">
 </p>
 
 ## <p align="left" > API </p>
